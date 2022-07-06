@@ -1,4 +1,4 @@
-#pragma comment(linker, "/STACK:300000000")
+#pragma comment(linker, "/STACK:400000000")
 #include <iostream>
 #include <string>
 #include <fstream>
